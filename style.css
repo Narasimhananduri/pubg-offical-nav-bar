@@ -1,0 +1,42 @@
+body{
+    background-color:whitesmoke;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #161616;
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+ul li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Teko', sans-serif;
+    font-size: 13px;
+    line-height: 1;
+
+  }
+
+
+  li {
+    float: left;
+}
+.logo-img{
+    float: left;
+    position: relative;
+    margin: 5px 5px 5px  0px;
+    width:120;
+    height:80;
+    
+
+}
